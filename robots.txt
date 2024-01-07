@@ -5,4 +5,4 @@ User-agent: Googlebot-mobile
 User-agent: Slurp
 User-agent: bingbot
 Allow: /
-Sitemap : http://dewa138online.jorisroovers.com/sitemap.xml
+Sitemap : http://boswin138.id.sjackman.ca/sitemap.xml
